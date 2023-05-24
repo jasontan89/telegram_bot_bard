@@ -9,3 +9,4 @@ setuptools==66.0.0
 telegram-text==0.1.1
 urllib3==2.0.2
 wheel==0.38.4
+gunicorn==20.1.0
