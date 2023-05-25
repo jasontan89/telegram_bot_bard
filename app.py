@@ -225,15 +225,12 @@ def fetch_horoscope(message,mode):
 
 
 #bot.infinity_polling()
+while True:
+    try:
+        bot.polling(non_stop=True, interval=0)
+    except Exception as e:
+        print(e)
+        time.sleep(5)
+        continue
 
-
-if __name__=='__main__':
-    while True:
-        try:
-            bot.polling(non_stop=True, interval=0)
-        except Exception as e:
-            print(e)
-            time.sleep(5)
-            continue
-bot.infinity_polling(timeout=10, long_polling_timeout = 5)
 
