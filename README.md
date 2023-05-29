@@ -4,6 +4,9 @@ I'm thrilled to share with you a simple yet powerful Telegram Bot that leverages
 
 This Telegram Bot is designed to enhance your messaging experience by integrating the powerful capabilities of the Google Bard API. Here's what you can expect from this bot:
 
+![bard answer](https://github.com/jasontan89/telegram_bot_bard/assets/97240904/04a54ea7-2385-465e-9078-7447a5d7cf31)
+
+
 1️⃣ Translation: Need help translating text to English? Simply provide the text you want to translate, and the bot will handle the rest. It will not only detect the language but also provide you with an improved and corrected version in English.
 
 2️⃣ Stand-up Comedian: Looking for a good laugh? Tell the bot your preferred type of humor, and it will create a customized stand-up routine based on current events and personal anecdotes. Get ready for some witty and entertaining moments!
