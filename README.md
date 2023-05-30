@@ -19,4 +19,12 @@ This Telegram Bot harnesses the power of the Google Bard API to deliver accurate
 
 Feel free to explore and customize this bot to suit your specific needs. Happy chatting and coding! 🚀💬
 
+Additional Note- You will need to register for your own Telegram Bot and get your bot API. Same for Google Bard AI API key. Then set these two as environment variables  
+BOT_TOKEN
+_BARD_API_KEY
+
+Resources: 
+https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/
+https://github.com/dsdanielpark/Bard-API
+
 #TelegramBot #GoogleBardAPI #Chatbot #ArtificialIntelligence
